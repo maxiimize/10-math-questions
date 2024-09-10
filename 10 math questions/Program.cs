@@ -100,6 +100,34 @@
             //Array.Reverse(numList);
 
             //Console.WriteLine($"Här är talen du angav sorterad från störst till minst: {numList[0]}, {numList[1]}, {numList[2]}");
+
+
+            //Question 9: Fibonacci sequence
+            //Console.WriteLine("Ange ett tal: ");
+            //int n = int.Parse(Console.ReadLine());
+            //int num = 0;
+            //int num2 = 1;
+
+            //if (n <= 0)
+            //{
+            //    Console.WriteLine("Antalet termer måste vara större än 0");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"{num} {num2}");
+
+            //    for (int i = 3; i <= n; i++)
+            //    {
+            //        int nextNum = num + num2;
+            //        Console.WriteLine($"{nextNum} ");
+
+            //        num = num2;
+            //        num2 = nextNum;
+            //    }
+
+
+            //Question 10: Calculate the factor
+            }
         }
     }
 }
