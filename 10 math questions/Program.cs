@@ -47,7 +47,59 @@
             //Console.WriteLine($"Medelvärdet på talen du uppgav är: {avgValueTwoDec}");
 
 
-            //Question 5
+            //Question 5: Calculate the circumference of a circle
+            //Console.WriteLine("Uppge radien på din cirkel: ");
+            //float radius = float.Parse(Console.ReadLine());
+            //float pi = (float)Math.PI;
+            //float circumference = 2 * pi * radius;
+
+            //Console.WriteLine($"Omkretesen på din cirkel är: {circumference}");
+
+
+            //Question 6: Control if the number is even or odd
+            //Console.WriteLine("Ange ett tal: ");
+            //int num = int.Parse(Console.ReadLine());
+
+            //if (num % 2 == 0)
+            //{
+            //    Console.WriteLine("Talet är jämnt.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Talet är udda");
+            //}
+
+
+            //Question 7: Division of two numbers
+            //Console.WriteLine("Ange det första talet: ");
+            //int num = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ange det andra talet: ");
+            //int num2 = int.Parse(Console.ReadLine());
+
+            //if (num2 == 0)
+            //{
+            //    Console.WriteLine("Du kan inte dela med 0. Prova igen.");
+            //}
+            //else
+            //{
+            //    int quote = num / num2;
+            //    Console.WriteLine($"Kvoten är {quote}");
+            //}
+
+
+            //Question 8: Biggest of three numbers
+            //Console.WriteLine("Ange första talet: ");
+            //int num = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ange andra talet: ");
+            //int num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ange tredje talet: ");
+            //int num3 = int.Parse(Console.ReadLine());
+
+            //int[] numList = {num, num2, num3};
+            //Array.Sort(numList);
+            //Array.Reverse(numList);
+
+            //Console.WriteLine($"Här är talen du angav sorterad från störst till minst: {numList[0]}, {numList[1]}, {numList[2]}");
         }
     }
 }
